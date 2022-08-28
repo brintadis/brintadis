@@ -41,4 +41,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Brintadis's GitHub stats](https://github-readme-stats.vercel.app/api?username=brintadis&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brintadis&repo=any-sync)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brintadis&repo=any-sync&show_owner=True&theme=tokyonight)](https://github.com/brintadis/any-sync)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brintadis)](https://github.com/anuraghazra/github-readme-stats)
