@@ -35,12 +35,12 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brintadis&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brintadis&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Brintadis's GitHub stats](https://github-readme-stats.vercel.app/api?username=brintadis&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=brintadis&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brintadis&count_private=true&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brintadis&layout=compact&theme=tokyonight" />
+</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brintadis&repo=any-sync&show_owner=True&theme=tokyonight)](https://github.com/brintadis/any-sync)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brintadis)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brintadis&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
