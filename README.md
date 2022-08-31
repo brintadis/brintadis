@@ -5,7 +5,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=brintadis&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
@@ -13,7 +13,7 @@
 
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- 🔭 I’m working as a Software Engineer and contributing to backend for building web applications.
+- 🔭 I’m working as a Software Engineer and contributing to backend for building web applications. 
 - ⚡ In my free time I solve problems on GeeksforGeeks, CodeWars and read tech articles.
 - 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/-Wat_Nick-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Wat_Nick) [![Linkedin Badge](https://img.shields.io/badge/MakarTimofeev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/makar-timofeev-733170237)
 
