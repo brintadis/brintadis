@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Django, DRF**
 
-- 👨‍💻 All of my projects are available at [**brintadis**](https://brintadis.github.io/)
+<!--- 👨‍💻 All of my projects are available at [**brintadis**](https://brintadis.github.io/)-->
 
 - 📫 How to reach me 
 [![Telegram Badge](https://img.shields.io/badge/-Wat_Nick-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Wat_Nick)
