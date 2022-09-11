@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [**any_sync_django**](https://github.com/brintadis/any_sync_django)
 
-- 🌱 I’m currently learning **Django, DRF**
+- 🌱 I’m currently learning **Django, Django REST Framework**
 
 <!--- 👨‍💻 All of my projects are available at [**brintadis**](https://brintadis.github.io/)-->
 
