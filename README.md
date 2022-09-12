@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="mailto:makar.timofeev.1990@gmail.com"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mail Badge"></a>
-<a href="https://t.me/Wat_Nick"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
+<a href="https://t.me/brintadis"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=brintadis&style=flat-square&color=blue" alt=""></p>
 
@@ -15,7 +15,7 @@
 <!--- 👨‍💻 All of my projects are available at [**brintadis**](https://brintadis.github.io/)-->
 
 - 📫 How to reach me 
-[![Telegram Badge](https://img.shields.io/badge/-Wat_Nick-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Wat_Nick)
+[![Telegram Badge](https://img.shields.io/badge/-brintadis-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/brintadis)
 [![Email Badge](https://img.shields.io/badge/MakarTimofeev-blue?style=flat&logo=Gmail&logoColor=white)](mailto:makar.timofeev.1990@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/MakarTimofeev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/makar-timofeev-733170237) 
 
