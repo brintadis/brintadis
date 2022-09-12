@@ -19,7 +19,7 @@
 [![Email Badge](https://img.shields.io/badge/MakarTimofeev-blue?style=flat&logo=Gmail&logoColor=white)](mailto:makar.timofeev.1990@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/MakarTimofeev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/makar-timofeev-733170237) 
 
-- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1bOWbcIQc8M9is0a5m5kYbhLawtgmSWqA/view?usp=sharing)
+- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/18qsUnzCzFMnmV2FQtPpPN7D6TSaDgdsc/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
